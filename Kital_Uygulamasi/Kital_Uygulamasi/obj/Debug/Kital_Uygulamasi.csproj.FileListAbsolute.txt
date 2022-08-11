@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Kital_Uygulamasi\Kital_Uygulamasi\bin\Debug\Kital_Uygulamasi.exe.config
+C:\Users\admin\source\repos\Kital_Uygulamasi\Kital_Uygulamasi\bin\Debug\Kital_Uygulamasi.exe
+C:\Users\admin\source\repos\Kital_Uygulamasi\Kital_Uygulamasi\bin\Debug\Kital_Uygulamasi.pdb
+C:\Users\admin\source\repos\Kital_Uygulamasi\Kital_Uygulamasi\obj\Debug\Kital_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Kital_Uygulamasi\Kital_Uygulamasi\obj\Debug\Kital_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Kital_Uygulamasi\Kital_Uygulamasi\obj\Debug\Kital_Uygulamasi.exe
+C:\Users\admin\source\repos\Kital_Uygulamasi\Kital_Uygulamasi\obj\Debug\Kital_Uygulamasi.pdb
+D:\C-kod\Kital_Uygulamasi\Kital_Uygulamasi\bin\Debug\Kital_Uygulamasi.exe.config
+D:\C-kod\Kital_Uygulamasi\Kital_Uygulamasi\bin\Debug\Kital_Uygulamasi.exe
+D:\C-kod\Kital_Uygulamasi\Kital_Uygulamasi\bin\Debug\Kital_Uygulamasi.pdb
+D:\C-kod\Kital_Uygulamasi\Kital_Uygulamasi\obj\Debug\Kital_Uygulamasi.csproj.AssemblyReference.cache
+D:\C-kod\Kital_Uygulamasi\Kital_Uygulamasi\obj\Debug\Kital_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\C-kod\Kital_Uygulamasi\Kital_Uygulamasi\obj\Debug\Kital_Uygulamasi.csproj.CoreCompileInputs.cache
+D:\C-kod\Kital_Uygulamasi\Kital_Uygulamasi\obj\Debug\Kital_Uygulamasi.exe
+D:\C-kod\Kital_Uygulamasi\Kital_Uygulamasi\obj\Debug\Kital_Uygulamasi.pdb
